@@ -3,7 +3,8 @@ import java.util.Scanner;
 public class DiceCode 
 {
 	Cave_Jungle startgame = new Cave_Jungle();
-	Path_Menu path = new Path_Menu();	
+	Path_Menu path = new Path_Menu();
+	String Roller;
 	
 	public String RollDice() //Dice code to determine chance of success
 	{
