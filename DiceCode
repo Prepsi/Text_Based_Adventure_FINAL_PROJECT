@@ -4,7 +4,6 @@ public class DiceCode
 {
 	Cave_Jungle startgame = new Cave_Jungle();
 	Path_Menu path = new Path_Menu();	
-	private int Roller, EvenDivide, OddDivide;
 	
 	public String RollDice() //Dice code to determine chance of success
 	{
